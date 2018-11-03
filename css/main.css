@@ -52,35 +52,31 @@ ol {
 
 a:link {
     text-decoration: none;
-    color: #2a3439;
+    color: #999999;
 }
 
 a:visited {
     text-decoration: none;
-    color: #2a3439;
+    color: #999999;
 }
 
 a:hover {
-    color: white;
+    color: black;
 }
 
 a:active {
-    color: white;
+    color: black;
 }
 
 footer {
 	background-color: black;
 	text-align:center;
 	height: 10%;
-	color: white;
 	padding-top: 5px;
-	font-family: 'Source Code Pro', monospace;
-	font-size: 20px;
 	margin-top: -30px;
 	position: absolute;
 	width: 100%;
 }
-
 
 .content {
 	border-radius: 15px 50px 0px 0px;
