@@ -65,11 +65,14 @@ footer {
 	text-align:center;
 	height: 10%;
 	color: white;
-	padding-top: 20px;
+	padding-top: 5px;
 	font-family: 'Source Code Pro', monospace;
 	font-size: 20px;
-	margin-top: -80px;
+	margin-top: -30px;
+	position: absolute;
+	width: 100%;
 }
+
 
 .content {
 	border-radius: 15px 50px 0px 0px;
