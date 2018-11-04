@@ -96,3 +96,9 @@ footer {
 	margin: 0 auto;
 }
 
+button {
+	text-align: center;
+	font-style: "Playfair Display", serif;
+	font-size: 30px;
+}
+
